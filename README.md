@@ -1,9 +1,11 @@
 # app_concept
 
-design from https://dribbble.com/shots/3911197-DesignBetter-co-app-concept-in-InVision-Studio
------
-Screen record
+Flutter app based on design from [https://dribbble.com/shots/3911197-DesignBetter-co-app-concept-in-InVision-Studio](https://dribbble.com/shots/3911197-DesignBetter-co-app-concept-in-InVision-Studio)
+
+---------
+TODO: animations
+---------
+Screen capture
+
 ![](screenshots/Screen.gif)
 
---
-Todo: add some Animations
